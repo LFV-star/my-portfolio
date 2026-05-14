@@ -36,17 +36,10 @@ export default function Hero() {
 
       <div className="quote-screen">
         <div className="quote-card">
-          <div className="quote-left">
-            <blockquote className="hero-quote">
-              "As long as I'm alive, there are infinite chances!"
-            </blockquote>
-            <cite className="hero-cite">— Monkey D. Luffy</cite>
-          </div>
-          <div className="quote-right">
-            <div className="robot-placeholder">
-              <p>3D robot animation will be placed here</p>
-            </div>
-          </div>
+          <blockquote className="hero-quote">
+            "As long as I'm alive, there are infinite chances!"
+          </blockquote>
+          <cite className="hero-cite">— Monkey D. Luffy</cite>
         </div>
       </div>
 
